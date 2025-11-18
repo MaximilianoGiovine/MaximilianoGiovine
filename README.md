@@ -99,7 +99,3 @@ Siempre aprendiendo y buscando mejorar cada día.
 ---
 
 Última actualización: 2025-11-18
-
----
-
-Si quieres que lo deje totalmente listo (proyectos con links reales y stack inferido desde tus repos), puedo ejecutar un script para analizar tu cuenta y actualizar el README automáticamente — solo necesito que me confirmes si quieres que lo haga y si me das un token (opcional) para mayor cuota y acceso a repos privados, o me autorizas a revisar tus repos públicos.
